@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793570277 source:c:\users\fernanda\desktop\estrutura_dados\treinamento_maratona\desafio3\main.c
+	<stdio.h>
+	<stdlib.h>
+
